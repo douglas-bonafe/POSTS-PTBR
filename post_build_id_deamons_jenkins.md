@@ -121,6 +121,7 @@ RUN \
 
 RUN rm -rf /var/lib/apt/lists/*
 USER jenkins
+EXPOSE 9090
 ```
 
 Depois, crie o docker-compose.yml:
@@ -134,6 +135,7 @@ Daí volte para a linha de comando e digite:
 
 ```
 $ sudo docker-compose build master
+$ docker-compose up master
 ```
 
 Tão simples quanto isso!
