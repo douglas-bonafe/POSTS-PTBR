@@ -20,7 +20,8 @@ Nosso primeiro passo será criar uma pequena aplicação com Flask. Para economi
 Mas para não ficar tão cru, vamos criar essa nossa aplicação no OpenShift. Para tanto, teremos a ardua tarefa de inserir UM COMANDO.
 
 
-Criando uma aplicação Python Flask no Openshift
+##Criando uma aplicação Python Flask no Openshift
+
 Considerando que você já possui uma conta no OpenShift, primeiramente instale o ruby e o rhc em sua máquina local.
 Tendo instalado, execute:
 
@@ -100,7 +101,7 @@ $ git push
 Agora nosso próximo passo será subir um container docker com Jenkins!!!
 Mas para brincarmos um pouco, utilizarei o docker-compose.
 
-Subir Jenkins com docker-compose
+##Subir Jenkins com docker-compose
 
 Primeiro crie um diretorio docker-jenkins e, dentro dele, escreva um Dockerfile:
 
