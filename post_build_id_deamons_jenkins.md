@@ -320,6 +320,19 @@ fi
 
 Este script está disponível no repositório [VeerMuchandi](https://github.com/VeerMuchandi/jenkinsose3/blob/master/deploytodev).
 Ele espera que as seguintes variáveis de ambiente sejam setadas.
+
+```
+APP_HOSTNAME=<your development application's FQDN, ex: myapp-development.apps.myopenshift.com>
+APP_NAME= <your application name,ex: myapp>
+APP_GIT=<your java source code from a git repository>
+APP_GIT_REF= <git reference, leave it blank if not applicable>
+APP_GIT_CONTEXT_DIR= <git context directory, leave it blank if not applicable>
+USER_NAME=<username to login to OpenShift3>
+OSE_SERVER=<your OpenShift3 master URL>
+CERT_PATH= <location where you placed your certificate file, example /var/lib/jenkins/secrets/ca.crt>
+DEVEL_PROJ_NAME=<name of your development project, example "development”>
+```
+
 Assim sendo, você precisa inserí-las no seu build step usando “Inject environment variables to the build process”.
 
 Para maiores detalhes de como buildar um projeto OpenShift no Jenkins vocês podem acessar o [blog do OpenShift](https://blog.openshift.com/deploy-applications-openshift-3-using-jenkins/).
