@@ -54,4 +54,4 @@ Suponha que o cliente chegue com a seguinte descrição do projeto:
 
 Usaremos aqui o Modelo Entidade-Relacionamento Estendido (MER-X). Assim, no nosso SPRINT Zero, nosso modelo seria como a seguir:
 
-![Modelo Entidade-Relacionamento Estendido](https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/figuras/modelagem%20em%20scrum/modelagem.png)
+![alt text](https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/figuras/modelagem%20em%20scrum/modelagem.png)
