@@ -46,8 +46,6 @@ Um grande exemplo de como tais modelos funcionam na prática, pode ser visto no 
 
 ## Modelando um pequeno sistema
 
-### SPRINT ZERO
-
 Suponha que o cliente chegue com a seguinte descrição do projeto:
 
 > "Eu tenho uma empresa de importação que efetua a suas compras através de contratos. Cada contrato (identificado por um número) firmado com um fornecedor, diz respeito a várias mercadorias (identificadas por um código e com um nome). Do contrato consta também a data da assinatura, o prazo de validade, a moeda e o valor. É fixado no contrato o preço unitário de compra de cada mercadoria, a quantidade especificada numa unidade de medida que é sempre a mesma para cada mercadoria independente do contrato. É necessário manter informação sobre os fornecedores (nome, endereço, telefone e fax) que são identificados por um código. As mercadorias envolvidas num contrato são todas enviadas num único transporte (identificado por um número). Para cada transporte é necessário conhecer o tipo de transporte, a data de partida e a data de chegada."
@@ -55,3 +53,9 @@ Suponha que o cliente chegue com a seguinte descrição do projeto:
 Usaremos aqui o Modelo Entidade-Relacionamento Estendido (MER-X). Assim, no nosso SPRINT Zero, nosso modelo seria como a seguir:
 
 ![alt text](https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/figuras/modelagem%20em%20scrum/modelagem.png)
+
+As alterações no modelo podem ser feitas no Dia e versionadas no GIT. Ou ainda podem ser exportadas no xml do Visio, pelo mesmo Dia ou pelo MS Visio.
+
+Isso permite que os modelos sejam inclusive versionados e evoluam junto com o código.
+
+Bem, pessoal, por hoje isso é tudo.
