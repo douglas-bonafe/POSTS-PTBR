@@ -1,4 +1,4 @@
-# Modelagem de Banco de Dados Relacionais em projetos Reais
+# Modelagem de Banco de Dados Relacionais em projetos ágeis Reais
 
 ## Cenário atual
 
