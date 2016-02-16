@@ -58,4 +58,26 @@ As alterações no modelo podem ser feitas no Dia e versionadas no GIT. Ou ainda
 
 Isso permite que os modelos sejam inclusive versionados e evoluam junto com o código.
 
-Bem, pessoal, por hoje isso é tudo.
+Mas será este o melhor jeito de se modelar em SCRUM?
+
+## Os princípios da modelagem ágil
+
+A Modelagem Ágil (AM) define um conjunto de princípios fundamentais e suplementares de como se modelar em Ágil. Alguns destes princípios foram extraídos do XP e estão bem documentados em [Extreme Programming Expllained](http://www.amazon.com/exec/obidos/ASIN/0321278658/ambysoftinc). A Modelagem Ágil está dividida em *core *principles que basicamente são formados pelo *Agile *Model *Driven *Development (AMDD) e princípios suplementares os quais, de forma resumida, irei listar aqui.
+
+> O conteúdo é mais importante que a representação!
+
+Um sistema pode ser representado por diversos modelos. Por exemplo, uma especificação de UX pode ser criada utilizando um post-it, uma folha de papel, um quadro ou com um modelo tradicional de dados, como fizemos. Assim como em uma descrição textual. Geralmente estas anotações são descartadas, mas estas representações não guardam em si algum conteúdo? Então porque desperdiçá-las apenas porque elas não podem se converter em documentação oficial?
+Certamente há uma enorme vantagem nesse ponto em se usar uma linguagem formal para isso, como UML ou como o MER(X) dado que se tratam de linguagens consolidadas e que todo desenvolvedor e projetista sabe ou ao menos deveria saber ler. Isso evita problemas de comunicação.
+Oras... se temos uma estrutura rígida (como a língua Latim, por exemplo) que evita ambiguidades de interpretação, porque ficar falando nas gírias locais? Todavia, o conteúdo é mais importante que a representação e por esse motivo não custa tirar uma foto de seus rascunhos e armazenar no dropbox do time, não é?
+
+Um segundo princípio é mais relacionado às pessoas que à técnica. Mas o grande foco das metodologias ágeis são as pessoas!!!
+
+> Comunicação aberta e honesta!
+
+Isso é tão óbvio, mas tão difícil de se ter na prática. Isso porque na atual cultura de Mercado, erros e ignorância muitas vezes implicam em demissões dado que o importante no Mercado é o lucro. Assim, as pessoas não se sentem livres para se expor livremente como farima numa roda de amigos. Como resolver isso?
+As pessoas precisam ser livres. É preciso criar um verdadeiro espírito de time e os gerentes precisam saber ponderar bem o que é uma ignorância ou uma inabilidade e o que é incompetência. As pessoas precisam ter liberdade para opinar e oferecer sugestões e precisam se sentir assim.
+Isto inclui ideias correspondentes aos modelos, à abordagem, de dar más notícias.
+Precisam de liberdade para corrigirem umas às outras e enfim, jogarem juntas como um time.
+Mas isso já é mais pessoa que projeto.
+
+Por hoje isso é tudo pessoal!!!
