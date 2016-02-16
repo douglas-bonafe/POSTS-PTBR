@@ -10,3 +10,5 @@ E já temos o nosso primeiro post!!!
 # POSTS
 
 * ]06/01/2016[ - [Jenkins e “deamons”: por que vocês me quebram? E como resolver em UMA linha.] (https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/post_build_id_deamons_jenkins.md)
+
+* ]16/02/2016[ - [Modelagem de Banco de Dados em Projetos Ágeis Reais](https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/modelagemDB.md)
