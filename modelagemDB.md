@@ -52,4 +52,6 @@ Suponha que o cliente chegue com a seguinte descrição do projeto:
 
 > "Eu tenho uma empresa de importação que efetua a suas compras através de contratos. Cada contrato (identificado por um número) firmado com um fornecedor, diz respeito a várias mercadorias (identificadas por um código e com um nome). Do contrato consta também a data da assinatura, o prazo de validade, a moeda e o valor. É fixado no contrato o preço unitário de compra de cada mercadoria, a quantidade especificada numa unidade de medida que é sempre a mesma para cada mercadoria independente do contrato. É necessário manter informação sobre os fornecedores (nome, endereço, telefone e fax) que são identificados por um código. As mercadorias envolvidas num contrato são todas enviadas num único transporte (identificado por um número). Para cada transporte é necessário conhecer o tipo de transporte, a data de partida e a data de chegada."
 
-Usaremos aqui o Modelo Entidade-Relacionamento Estendido (MER-X).
+Usaremos aqui o Modelo Entidade-Relacionamento Estendido (MER-X). Assim, no nosso SPRINT Zero, nosso modelo seria como a seguir:
+
+![Modelo Entidade-Relacionamento Estendido](https://github.com/douglas-bonafe/POSTS-PTBR/blob/master/figuras/modelagem%20em%20scrum/modelagem.png)
